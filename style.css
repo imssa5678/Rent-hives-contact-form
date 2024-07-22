@@ -1,0 +1,32 @@
+.email-icon{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 60px;
+    margin-top: 20px;
+    padding-top: 15px;
+    
+}
+
+.telephone-icon{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 60px;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+.address-icon{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 60px;
+    margin-top: 20px;
+    padding-top:15px ;
+}
+
+
+
